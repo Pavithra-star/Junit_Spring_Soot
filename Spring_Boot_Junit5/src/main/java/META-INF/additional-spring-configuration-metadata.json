@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "okta.oauth2.issuer",
+    "type": "java.lang.String",
+    "description": "A description for 'okta.oauth2.issuer'"
+  },
+  {
+    "name": "okta.oauth2.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'okta.oauth2.clientId'"
+  },
+  {
+    "name": "okta.oauth2.clientSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'okta.oauth2.clientSecret'"
+  },
+  {
+    "name": "okta.oauth2.scope",
+    "type": "java.lang.String",
+    "description": "A description for 'okta.oauth2.scope'"
+  }
+]}
